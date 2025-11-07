@@ -1,0 +1,10 @@
+
+Assign Tasks to Copilot: You can assign tasks to Copilot just like you would to any team member, using GitHub Issues or other supported workflows.
+
+Three AI Modes:
+Ask: Get explanations or answers about existing code.
+Edit: Modify or generate code with AI assistance.
+Agent: Handle multi-file or complex tasks autonomously.
+
+Model Context Protocol (MCP): Allows Copilot to connect with external services and tools directly from your IDE, reducing context switching and improving workflow efficiency.
+Best Practice: Always review AI-generated code and instructions to ensure correctness.
